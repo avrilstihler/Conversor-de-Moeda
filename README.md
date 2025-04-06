@@ -44,11 +44,11 @@ Este projeto é ideal para quem está começando no JavaScript e deseja praticar
 
 ## ✅ Exemplo de uso
 
-| Escolha da Moeda | Valor de entrada |
+| 💰 Escolha da Moeda | 📋 Valor de entrada |
 |---|---|
 | ![Escolha da Moeda](images/moeda.png) | ![Valor](images/valor.png) |
 
-|  Valor Convertido |
+| 💵 Valor Convertido |
 |---|
 | ![Resultado](images/resultado.png) |
 
