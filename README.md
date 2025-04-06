@@ -4,7 +4,7 @@ Uma aplicação simples feita em **JavaScript**, que permite converter valores d
 
 ![Tela Inicial](images/tela.png)
 
-Clique [aqui](https://avrilstihler.github.io/Conversor-de-Moeda/) para acessar o game.
+Clique [aqui](https://avrilstihler.github.io/Conversor-de-Moeda/) para acessar o conversor.
 
 ## 🚀 Como funciona
 
